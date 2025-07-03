@@ -46,7 +46,9 @@ npm install
 npm start
 and use the default port 8000 or an environment variable for the port.
 
-Persian (فارسی)
+***
+### Persian (فارسی)
+
 این مخزن شامل فایل JSON مورد استفاده توسط json-server برای شبیه‌سازی API پروژه Hotel Web App است.
 
 توضیح و دلیل جدا کردن مخزن
