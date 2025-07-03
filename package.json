@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch server/db.json --port $PORT"
+    "start": "json-server --watch server/db.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "axios": "^1.7.7",
